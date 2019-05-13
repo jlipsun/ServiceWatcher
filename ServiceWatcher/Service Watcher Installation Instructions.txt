@@ -1,0 +1,10 @@
+To install:
+
+1. Open cmd prompt
+2. cd C:\ServiceWatcher\bin\Release
+3. c:\windows\microsoft.net\framework\v4.0.30319\installutil.exe /i ServiceWatcher.exe
+
+To Uninstall:
+1. Open cmd prompt
+2. cd C:\ServiceWatcher\bin\Release
+3. c:\windows\microsoft.net\framework\v4.0.30319\installutil.exe /u ServiceWatcher.exe
